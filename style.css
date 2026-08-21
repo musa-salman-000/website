@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: blue;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    
+
+    
+
+}
+.navbar:hover{
+    background-color:red;
+}
+.button{
+    background-color:darkgray;
+    color: black;
+    height: 20px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.button:hover{
+    color: blue;
+    background-color: black;
+}
+.nav-icon{
+    height: 30px;
+    width: 20px;
+}
+.nav-icon:hover{
+    color: gray;
+}
+.webpage-1{
+    color:black;
+}
+.webpage-1:hover{
+    color: blue;
+}
+.webpage2{
+    color: black;
+}
+.webpage2:hover{
+    color: blue;
+}
+.webpage3{
+    color: black;
+}
+.webpage3:hover{
+    color: blue;
+}
+.webpage4{
+    color: black;
+}
+.webpage4:hover{
+    color: blue;
+}
+.webpage5{
+    color:black;
+}
+.webpage5:hover{
+    color: blue;
+}
+.webpage{
+
+}
+.hero{
+    background-image: url('./images/scott-graham-5fNmWej4tAA-unsplash.jpg');
+    height: 75vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 209vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.hero:hover{
+    color: blue;
+}
+.About-Us{
+    background-image: url('./images/headway-5QgIuuBxKwM-unsplash.jpg');
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    width: 210.5vh;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.features{
+    background-image: url('./domenico-loia-hGV2TfOh0ns-unsplash.jpg');
+    background-size: cover;
+    height: 90vh;
+    width: 210.5vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+}
+.Services{
+    background-image: url('./images/carlos-muza-hpjSkU2UYSU-unsplash.jpg');
+    background-size: cover;
+    height: 93vh;
+    background-repeat: no-repeat;
+    width: 210.5vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.HIW{
+    background-image: url('./images/christina-wocintechchat-com-m-Jp-X63-an8U-unsplash.jpg');
+    background-size: cover;
+    height: 93vh;
+    background-repeat: no-repeat;
+    width: 209vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large;
+}
+ .index{
+    background-image:url('./images/firmbee-com-SpVHcbuKi6E-unsplash.jpg');
+    background-size: cover;
+    height: 93vh;
+    background-repeat: no-repeat;
+    width: 210.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large;
+    color: azure;
+ }
+ .link{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+ }
+ .body{
+    gap: 20;
+ }
+ .centre-body{
+    text-align: center;
+    display: flex;
+    justify-content:center
+    align-items:center
+ }
+ 
+ .a{
+    background-color: green;
+    color: blue;
+    height: 20px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .image{
+    height: 60vh;
+    width: 100vh; 
+    border-radius: 20px;
+ }
+ .t{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50px;
+ }
+ .p{
+
+ }
+.p{
+    position: relative;
+    top: 550px;
+    right: 800px;
+    color: azure;
+     bottom: 200px;
+    
+
+}
+.image2{
+    height: 60vh;
+    width: 100vh; 
+    border-radius: 20px;
+}
+.fixed{
+    position: fixed;
+    left: 1300px;
+    bottom: 0px;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.centre-body img{
+    margin-top: 40px;
+}
+.img{
+    height: 50vh;
+    width: 4 0vw;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.nb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    flex-direction: column;
+}
+.cb{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 50px;
+    
+}
+.wrapper img{
+width: 100%;
+max-width: 40vw;
+height: 60vh;
+border-radius: 20px; 
+vertical-align: middle;
+margin-top: 20px;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+     justify-content: space-around;
+     padding: 0 15px;
+    
+}
+ 

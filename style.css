@@ -139,7 +139,7 @@
     background-size: cover;
     height: 93vh;
     background-repeat: no-repeat;
-    width: 210.5vh;
+    width: 208.5vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -233,6 +233,7 @@
     justify-content: center;
     margin-top: 30px;
     flex-direction: column;
+    
 }
 .cb{
     display: flex;
@@ -256,5 +257,10 @@ margin-top: 20px;
      justify-content: space-around;
      padding: 0 15px;
     
+}
+.form{
+    position: relative;
+    left: 0px;
+    margin: 20px 40vw;
 }
  
